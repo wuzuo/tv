@@ -1,8 +1,0 @@
-CCTV1,http://101.74.28.240:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
-CCTV9,http://221.13.235.12:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
-公共,http://221.13.235.12:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0,1.671 MB/s
-卡酷动画,http://221.13.235.12:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0,0.844 MB/s
-河南戏曲,http://221.13.235.12:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0,1.221 MB/s
-电视剧,http://221.13.235.12:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0,1.274 MB/s
-都市,http://221.13.235.12:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0,1.126 MB/s
-金鹰卡通,http://221.13.235.12:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0,1.202 MB/s
