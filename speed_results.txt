@@ -1,0 +1,8 @@
+CCTV7,http://119.163.228.48:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV10,http://119.163.228.48:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV12,http://119.163.228.48:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+会议中心直播,http://gcbsc.v.live.baishancdnx.cn/gc/taishan03_1/index.m3u8,0.001 MB/s
+北京卫视,http://119.163.228.48:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+商务中心直播,http://gcbsc.v.live.baishancdnx.cn/gc/jhs02_1/index.m3u8,0.001 MB/s
+安徽卫视,http://119.163.228.48:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+礼宴中心直播,http://gcbsc.v.live.baishancdnx.cn/gc/yxxdpf_1/index.m3u8,0.001 MB/s
